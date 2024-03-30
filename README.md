@@ -1,4 +1,4 @@
-##  ATM Simulator  **(Node.js)**
+##  ATM Machine
 
 This is a Node.js script that simulates a basic ATM functionality. It allows users to:
 
@@ -12,7 +12,7 @@ This is a Node.js script that simulates a basic ATM functionality. It allows use
 
 **Prerequisites:**
 
-* Node.js and npm (or yarn) installed on your system.
+* Node.js and npm installed on your system.
 
 **Steps:**
 
