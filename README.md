@@ -25,7 +25,7 @@ This is a Node.js script that simulates a basic ATM functionality. It allows use
 2. Navigate to the project directory:
 
    ```bash
-   cd atm-simulator
+   cd atm-machine
    ```
 
 3. Install dependencies:
